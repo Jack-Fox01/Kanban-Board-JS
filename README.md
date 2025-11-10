@@ -3,4 +3,28 @@
 In this project I successfully created a simple Kanban Board.
 
 GOAL
-Create an interactive kanban board.
+- Create an interactive kanban board.
+
+<hr>
+<img width="2133" height="932" alt="Kanban" src="https://github.com/user-attachments/assets/f24b96e3-6966-4ea8-842f-3ccb3cd3832a" />
+Kanban SC
+<hr>
+https://github.com/user-attachments/assets/cee0508f-3487-4f25-8623-f6298f074e65
+Kanban Demo
+
+
+
+
+🚀 Features
+- A drop and drop board to measure your progression.
+
+🧠 How It Works
+- Simply click on the task, drap and drop it over.
+
+🎨 UI Design
+- Light-themed with bold fonts adn easily readible text.
+- Tasks "lift" themselves to show that they are in consumer control.
+- Pointer changes to grabbing when consumer hold task to show that they are indeed grabbing.
+
+🧩 Future Improvements
+- Add a button that come up with text box that allows you to add in more tasks.
