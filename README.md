@@ -9,7 +9,8 @@ GOAL
 <img width="2133" height="932" alt="Kanban" src="https://github.com/user-attachments/assets/f24b96e3-6966-4ea8-842f-3ccb3cd3832a" />
 Kanban SC
 <hr>
-https://github.com/user-attachments/assets/cee0508f-3487-4f25-8623-f6298f074e65
+
+https://github.com/user-attachments/assets/a1b4a2d5-87a8-431a-b50b-6dc85c8f71df
 Kanban Demo
 
 
